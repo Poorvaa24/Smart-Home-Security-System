@@ -1,0 +1,4 @@
+Doorwatch Components Explanation: https://youtu.be/v5d7apayYfU
+
+
+AWS Configurations and CI/CD: https://drive.google.com/file/d/10EHy1K4jAb1J2XXPhdj-1FTTfMtG60m6/view?usp=sharing
